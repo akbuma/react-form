@@ -1,0 +1,21 @@
+* {
+    font-family: 'lucida console';
+}
+
+label {
+    padding-right: 5px;
+}
+
+textarea {
+    width: 250px;
+    height: 25px;
+    resize: none;
+}
+
+form {
+    background-color: #F4F6F7;
+    margin: 0px auto;
+    width: 250px; 
+    height: 500px;
+    padding: 10px 25px;
+}
